@@ -1,0 +1,16 @@
+{
+  "name": "uniswap",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^3.0.5",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@types/bun": "latest",
+    "ethers": "^6.11.1",
+    "hardhat": "^2.22.2"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@uniswap/v3-periphery": "^1.4.4"
+  }
+}
