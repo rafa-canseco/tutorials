@@ -1,0 +1,17 @@
+{
+  "name": "langchainjs",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@langchain/openai": "^0.0.28",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.4.5",
+    "langchain": "^0.1.33"
+  }
+}
